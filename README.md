@@ -1,10 +1,10 @@
 <h1>Sivert bjørnstad</h1>
 
+<!--
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
-
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+-->
 
 ### 🤝 Connect with me:
 
@@ -13,7 +13,8 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.sivert.me"><img align="left" src="https://raw.githubusercontent.com/bjornsiv/bjornsiv/main/images/web-link.png" alt="Sivert Bjørnstad | Web Page" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-##
+
+### Some stats about my projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjornsiv&theme=nord&hide=makefile,cmake)]
 [![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornsiv&hide=issues&count_private=true&theme=nord)]
 
