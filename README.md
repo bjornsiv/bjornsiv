@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![banner](https://user-images.githubusercontent.com/55831515/163695090-bfd32134-1ad3-4da5-9bdc-33a74a096111.jpg)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjornsiv&theme=nord&hide=makefile,cmake)](https://github.com/robvold/github-readme-stats)
-[![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornsiv&hide=issues&count_private=true&theme=nord)](https://github.com/robvold/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjornsiv&theme=nord&hide=makefile,cmake)]
+[![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornsiv&hide=issues&count_private=true&theme=nord)]
 
 <!--
 **bjornsiv/bjornsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
