@@ -8,7 +8,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sivert-bj%C3%B8rnstad/"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/linkedin.svg" alt="Sivert Bjørnstad | LinkedIn" width="40px"/></a>
+<a href="https://www.linkedin.com/in/sivert-bj%C3%B8rnstad/"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/linkedin.png" alt="Sivert Bjørnstad | LinkedIn" width="40px"/></a>
 <a href="mailto:sivertbjorn@gmail.com"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/gmail.png" alt="Sivert Bjørnstad | Gmail" width="40px"/></a>
 <a href="https://www.sivert.me"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/web-link.png" alt="Sivert Bjørnstad | Web Page" width="40px"/></a>
 </br>
