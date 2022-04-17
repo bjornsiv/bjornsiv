@@ -1,5 +1,5 @@
 ### Hi there 👋
-![banner](https://user-images.githubusercontent.com/55831515/163695090-bfd32134-1ad3-4da5-9bdc-33a74a096111.jpg)
+
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjornsiv&theme=nord&hide=makefile,cmake)]
 [![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornsiv&hide=issues&count_private=true&theme=nord)]
