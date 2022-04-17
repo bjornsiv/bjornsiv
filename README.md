@@ -12,6 +12,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 <a href="mailto:sivertbjorn@gmail.com"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/gmail.png" alt="Sivert Bjørnstad | Gmail" width="40px"/></a>
 <a href="https://www.sivert.me"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/web-link.png" alt="Sivert Bjørnstad | Web Page" width="40px"/></a>
 </br>
+</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ### Some stats about my projects
